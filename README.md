@@ -1,0 +1,1 @@
+# Simple project to practice HTML (lists, links, images).
